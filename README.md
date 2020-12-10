@@ -15,4 +15,14 @@
   <p> 5. Uses 'Dart', which is very easy language to pick up. </p>
   <p> 6. Uses Material Designs out-of-the-box. </p>
   <p> 7. Great docs and guides on Flutter website. </p>
+ </ol>
+ 
+## You shoould know
+
+  <p> A basic to good understanding of programming principle.</p>
+      <p> 1. Classes.</p>
+      <p> 2. Functions and Methods. </p>
+      <p> 3. Variables.</p>
+      <p> 4. Asynchronous code. </p>
+      
   
