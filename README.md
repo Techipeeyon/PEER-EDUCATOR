@@ -17,7 +17,7 @@
   <p> 7. Great docs and guides on Flutter website. </p>
  </ol>
  
-## You shoould know
+## You should know
 
   <p> A basic to good understanding of programming principle.</p>
       <p> 1. Classes.</p>
